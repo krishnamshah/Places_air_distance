@@ -29,6 +29,11 @@ python3 main.py [n]
 The program will then calculate the air distance between all pairs of places and print out the pairs and distances in ascending order. The program will also print out the average distance and the place pair and corresponding distance having the distance closest to the average value.
 
 To run the test cases run the following command:
+
+
+## Future Updates
+* If the file doesnot exists, code that creates 'places.csv' directly.
+* Make it faaster with the use of Cython.
 ```
 pytest 
 ```
