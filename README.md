@@ -39,4 +39,4 @@ pytest
 
 ## Future Updates
 * If the file doesnot exists, code that creates 'places.csv' directly.
-* Make it faaster with the use of Cython.
+* Make it faster with the use of Cython.
